@@ -1,1 +1,1 @@
-# SEIR-flying-newspaper
+# SEIR Flying Newspaper
