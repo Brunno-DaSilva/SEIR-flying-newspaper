@@ -1,1 +1,1 @@
-# SEIR Flying Newspaper
+#  📰 SEIR Flying Newspaper  📰
